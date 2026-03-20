@@ -24,3 +24,4 @@ thread_2.join()
 thread_end = time.time()
 
 print(f'Running with threads took {thread_end - thread_start:.4f} seconds.')
+
